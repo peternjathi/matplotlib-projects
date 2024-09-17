@@ -1,4 +1,4 @@
 ![Logo](https://chrome22.s3.us-west-2.amazonaws.com/nokyy.png)
 
-# matplotlib-projects
+# matplotlib-projects.
 #Machine Learning Projects.
